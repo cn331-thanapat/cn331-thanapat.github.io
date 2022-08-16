@@ -12,10 +12,12 @@ body div{
     text-align: center;
 }
 
-body div ul{
+dt{
+    padding: 0;
     font-weight: bold;
     font-size: 20px;
 }
-li{
+dd{
+    padding: 20px;
     font-size: 15px;
 }
