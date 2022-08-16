@@ -5,9 +5,17 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    height: 30%;
+    width: 300px;
+    height: 300px;
 }
+body div{
+    text-align: center;
+}
+
 body div ul{
-    padding-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+li{
+    font-size: 15px;
 }
